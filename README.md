@@ -14,6 +14,6 @@ Now all you need to do is download my project to your localhost directory(the di
 Now you can simply open my project on your browser.
 
 
-You can aslo found the requested screenshots under the screenshots directory.
+You can also find the requested screenshots under the screenshots directory.
 
 Thank you for your time.
